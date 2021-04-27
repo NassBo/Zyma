@@ -42,7 +42,9 @@
     "jwtSecretKey": "ZTQ1Yjg5YmJjZGY3NGRjYzU3ZDVjNGJkZWRhODRmNmZiYTczMzZlMmQ1NGMyNzBlMzFiNzU5MDhiMDg4ZDBlMGNjMDIwMDU4Yzc5NmE4YTcyMDY0YTE5MDc1ZTBkNTQ4NzVkOTlmZjU0YTA2NjRiY2ZlOGZmM2U3MDljNmNhMWM=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["ApplicationUser", "Article", "Tag"],
+    "lastLiquibaseTimestamp": 1619526064000
   },
   "git-provider": "GitHub",
   "git-company": "NassBo",
